@@ -3,7 +3,7 @@ public class JavaExample{
 
   public static void main(String[] args) {
 
-      int num1 = 10, num2 = 20, num3 = 7;
+      int num1 = 15, num2 = 13, num3 = 14;
 
       if( num1 >= num2 && num1 >= num3)
           System.out.println(num1+" is the largest Number");
